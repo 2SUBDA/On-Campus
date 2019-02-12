@@ -1,7 +1,5 @@
 # On-Campus
 
-A small retail company based in Northwest Arkansas is committed to helping people save money in their daily purchases so that they can live better.  But how do they make decisions on what products to sell?  
+Based on the excellent homework assignment from CS140 @ Univ Washington - https://courses.cs.washington.edu/courses/cse140/13wi/homework/hw3/homework3.html
 
-This case study - https://scholarworks.uark.edu/scmtwscp/4/ - provides a historical review of one specific decision for the company.  Additionally, with the sample data, we have a chance to consider the algorithms, engineering and technology related to improving forecast accuracy.
 
-The case study is part of the Walton College's Walmart Sustainability Case Project - https://supplychain.uark.edu/projects/walmart-sustainability-case-project/.  The sample data is from research efforts focused on forecasting.  While improving forecasts across all departments is helpful, for the purpose of this case study, students may focus on Department 95.
